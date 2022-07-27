@@ -1,0 +1,18 @@
+.clickHere:hover{
+color:orange;
+cursor:pointer;
+}
+
+.clickHere{
+    cursor:pointer;
+}
+
+.clickHereWa:hover{
+    color:rgb(6, 202, 6);
+    cursor:pointer;
+    }
+    
+    .clickHereWa{
+        color:white;
+        cursor:pointer;
+    }
